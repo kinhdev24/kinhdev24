@@ -44,11 +44,18 @@ src="https://img.shields.io/twitter/follow/kinhdev24?logo=twitter&style=for-the-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tanstack](https://img.shields.io/badge/Tanstack-000000?style=for-the-badge&logo=tanstack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_Css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Threejs](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Web3 Integration](https://img.shields.io/badge/Web3_Integration-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Discord Bot](https://img.shields.io/badge/Discord_bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
