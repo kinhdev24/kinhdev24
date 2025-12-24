@@ -61,3 +61,12 @@ src="https://img.shields.io/twitter/follow/kinhdev24?logo=twitter&style=for-the-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBudDBrdzhubnh3anpkZ2ltN3p0eG16d2c5Z3NvbG1lbm5laGRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
+ <img src="https://kinhdev24.github.io/kinhdev-assets/pacman.svg" alt="pacman animation" />
+</div>
+
+---
